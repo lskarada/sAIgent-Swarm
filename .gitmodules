@@ -1,0 +1,3 @@
+[submodule "sAIgent-Swarm"]
+	path = sAIgent-Swarm
+	url = https://github.com/lskarada/sAIgent-Swarm.git
